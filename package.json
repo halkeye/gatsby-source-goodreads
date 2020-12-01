@@ -1,6 +1,6 @@
 {
   "name": "@halkeye/gatsby-source-goodreads",
-  "version": "0.0.7",
+  "version": "0.0.6",
   "description": "Get the public books from a shelf in Goodreads for use in Gatsby.",
   "repository": {
     "type": "git",
